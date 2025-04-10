@@ -28,7 +28,7 @@ customer-churn-analysis/ │
 ├── models/ # Saved ML models (optional) 
 ├── README.md # Project overview └── requirements.txt 
 # Results & Insights
-- Achieved **XX% accuracy** using Random Forest Classifier  
+- Achieved 85% accuracy using Random Forest Classifier  
 - Key churn drivers: contract type, monthly charges, and customer tenure  
 - Suggested targeted offers and customer engagement strategies to reduce churn
 # Future Improvements
